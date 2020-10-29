@@ -2,7 +2,7 @@
   "name": "projetoquasar",
   "version": "0.0.1",
   "description": "Estudo sobre o quasar framework e vuejs",
-  "productName": "Criacao do todoList",
+  "productName": "Projeto de estudo",
   "author": "Irla",
   "private": true,
   "scripts": {

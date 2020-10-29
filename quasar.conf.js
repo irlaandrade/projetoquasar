@@ -117,8 +117,8 @@ module.exports = function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'Criacao do todoList',
-        short_name: 'Criacao do todoList',
+        name: 'Projeto de estudo',
+        short_name: 'Projeto de estudo',
         description: 'Estudo sobre o quasar framework e vuejs',
         display: 'standalone',
         orientation: 'portrait',
